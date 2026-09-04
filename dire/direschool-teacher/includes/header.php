@@ -1,0 +1,4 @@
+﻿<?php
+// Unified header (sidebar layout) - delegates to shared root includes/header.php
+$__assetBase = '..';
+require __DIR__ . '/../../includes/header.php';
